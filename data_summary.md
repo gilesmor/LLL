@@ -1,3 +1,8 @@
+---
+layout: page
+title: Full Data Summary
+---
+
 # Lululemon Data Analysis Summary
 
 ## Executive Overview

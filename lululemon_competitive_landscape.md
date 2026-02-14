@@ -1,3 +1,8 @@
+---
+layout: page
+title: Competitive Landscape
+---
+
 # Lululemon Competitive Landscape Research Notes
 
 ## Executive Summary

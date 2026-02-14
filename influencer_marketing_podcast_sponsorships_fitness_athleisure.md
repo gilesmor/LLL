@@ -1,3 +1,8 @@
+---
+layout: page
+title: Influencer & Podcast Marketing
+---
+
 # Influencer Marketing & Podcast Sponsorships in Fitness/Wellness/Athleisure Space
 ## Research for Lululemon Brand Momentum & Customer Loyalty Rebuilding
 

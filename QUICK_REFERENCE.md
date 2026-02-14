@@ -1,3 +1,8 @@
+---
+layout: page
+title: Quick Reference
+---
+
 # Lululemon Analysis - Quick Reference Card
 
 ## Critical Metrics at a Glance

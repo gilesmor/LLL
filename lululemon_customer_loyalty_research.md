@@ -1,3 +1,8 @@
+---
+layout: page
+title: Customer Loyalty Research
+---
+
 # Lululemon Customer Base & Brand Loyalty Research
 
 ## Key Statistics Summary

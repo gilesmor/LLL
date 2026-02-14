@@ -1,3 +1,8 @@
+---
+layout: page
+title: Charts Index
+---
+
 # Lululemon Analysis - Charts Index
 
 ## All Charts Generated (5 Total)
