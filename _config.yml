@@ -1,13 +1,19 @@
 title: "Lululemon Recovery Strategy"
-description: "Market analysis, competitive landscape & marketing channel opportunities"
+description: "Market analysis, competitive landscape & marketing channel opportunities — Oxford Road, February 2026"
 theme: minima
 markdown: kramdown
 
 header_pages:
-  - QUICK_REFERENCE.md
-  - CHARTS_INDEX.md
+  - key-numbers.md
+  - research.md
   - data_summary.md
 
 exclude:
   - EXECUTIVE_SUMMARY.txt
   - lululemon_recovery_strategy_report.pdf
+  - QUICK_REFERENCE.md
+  - CHARTS_INDEX.md
+  - lululemon_struggles_2024_2026.md
+  - lululemon_competitive_landscape.md
+  - lululemon_customer_loyalty_research.md
+  - influencer_marketing_podcast_sponsorships_fitness_athleisure.md
