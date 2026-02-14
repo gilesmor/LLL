@@ -3,11 +3,10 @@ layout: page
 title: Quick Reference
 ---
 
-# Lululemon Analysis - Quick Reference Card
-
 ## Critical Metrics at a Glance
 
 ### Financial Crisis
+
 | Metric | 2024 | 2025 | Change |
 |--------|------|------|--------|
 | Stock Price | -25% | -57% | -32pp |
@@ -16,6 +15,7 @@ title: Quick Reference
 | Comp Sales (Americas) | N/A | -5% | Crisis |
 
 ### Market Position
+
 | Rank | Brand | Market Share | Trend |
 |------|-------|--------------|-------|
 | 1 | Nike | 31.6% | Declining |
@@ -24,6 +24,7 @@ title: Quick Reference
 | 6 | Alo Yoga | 1.3% | Growing (+1%p) |
 
 ### Vuori Threat
+
 | Year | Penetration | Growth | Wallet Share |
 |------|-------------|--------|--------------|
 | 2018 | 1.2% | Base | N/A |
@@ -45,28 +46,6 @@ title: Quick Reference
 
 ---
 
-## Files & Locations
-
-### Charts (5 PNG, 150 DPI)
-```
-/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/
-├── 01_stock_revenue_decline.png (101KB)
-├── 02_market_share_comparison.png (56KB)
-├── 03_vuori_penetration_growth.png (97KB)
-├── 04_roi_comparison.png (64KB)
-└── 05_customer_demographics.png (62KB)
-```
-
-### Documentation (3 Files)
-```
-/Users/giles/claude-agent-sdk-demos/research-agent/files/data/
-├── data_summary.md (20KB) - Full 185+ metric extraction
-├── CHARTS_INDEX.md (5KB) - Chart reference guide
-└── EXECUTIVE_SUMMARY.txt (12KB) - High-level overview
-```
-
----
-
 ## Key Findings Summary
 
 ### What's Happening
@@ -83,14 +62,14 @@ title: Quick Reference
 5. **Price Sensitivity**: 82% of consumers changing due to tariff concerns
 
 ### Most Serious Threat
-**Vuori** - Not replacing Lululemon, but expanding wallet share
+**Vuori** — Not replacing Lululemon, but expanding wallet share
 - Customers now spend MORE at Vuori ($660) than Lululemon ($600)
 - Growing at 23% YoY
 - $5.5B valuation with rapid store expansion (100 stores by 2026)
 
 ---
 
-## Market Opportunity Data
+## Market Opportunity
 
 | Market | 2024 | 2030 | CAGR |
 |--------|------|------|------|
@@ -98,22 +77,6 @@ title: Quick Reference
 | Premium Sportswear | $106.9B | $174.3B | 8.5% |
 | Influencer Platform | $25.4B | $97.5B | 23.3% |
 | Podcast Ad Revenue | $4.46B | Growing | +17% YoY |
-
----
-
-## Customer Segments
-
-### High-Value Retention (92%)
-- Top 20% of customers
-- Household income $100K+
-- Primarily women 25-45
-- Digital-engaged
-
-### Loyalty Gap
-- Only 45% in loyalty program
-- 83% self-identify as loyal
-- NPS: 41 (4th in category)
-- Huge untapped engagement opportunity
 
 ---
 
@@ -143,53 +106,6 @@ title: Quick Reference
 - 73% receptive to sponsored messages
 - CPM range: $25-$45 (wellness category)
 
-### Budget Allocation Trends
-- 80% of companies use influencers
-- 22.4% allocate 10-20% of budget
-- 26% allocate 40%+ to influencer partnerships
-- TikTok influencer spend: $15B expected (2025)
-
----
-
-## Product & Brand Issues
-
-### Design Failures
-- Breezethrough leggings pulled (fit complaints)
-- Core black leggings in outlet (brand damage)
-- "Too predictable" (CEO admission)
-- Design cycle slower than competitors
-
-### Consumer Behavior Shifts
-- Gen Z wants baggier silhouettes (vs fitted)
-- 82% planning to change due to tariffs
-- "Dupe culture" on TikTok undermining pricing
-- Secondhand market growing 14% annually
-
-### Inventory Crisis
-- Q2 2025: Up 21% YoY to $1.7B
-- Clearance pressures requiring heavy markdowns
-- Small women's sizes stock-outs (Q1 2024)
-- Men's basics/polos heavily discounted
-
----
-
-## Leadership & Strategic Issues
-
-### CEO Departure
-- Calvin McDonald: Departing January 31, 2026
-- Chip Wilson: Founder campaigning against leadership
-- Criticism: Loss of "cool" and "brand erosion"
-- Meghan Frank & André Maestrini: Interim co-CEOs
-
-### Key Headwinds
-1. Tariff & supply chain inflation
-2. Fashion trend misalignment (baggy vs fitted)
-3. Product innovation stagnation
-4. Market saturation in North America
-5. Inventory mismanagement
-6. Competitive encroachment
-7. Loss of brand cool factor
-
 ---
 
 ## Geographic Performance
@@ -204,38 +120,15 @@ title: Quick Reference
 - China: Up 25% (Q3 2025)
 - Rest of World: Up 9% (Q3 2025)
 - International growth masking Americas decline
-- Expansion opportunity outside North America
 
 ---
 
-## Data Extraction Summary
+## Leadership
 
-**Total Metrics Extracted**: 185+
-**Categories**: 7 (Finance, Market Share, Demographics, Loyalty, Influencers, Podcasts, Market Size)
-**Time Period**: 2018-2026 with quarterly detail (2024-2025)
-**Geographic Scope**: U.S., North America, International, Global
-
----
-
-## Report Integration Guide
-
-### For Executive Summary
-Use: EXECUTIVE_SUMMARY.txt and Chart 1 (Stock/Revenue)
-
-### For Competitive Analysis
-Use: Chart 2 (Market Share) and Chart 3 (Vuori Threat)
-
-### For Customer Demographics
-Use: Chart 5 (Demographics) and data_summary.md
-
-### For Marketing Recommendations
-Use: Chart 4 (ROI Comparison) and marketing data from data_summary.md
-
-### For Strategic Findings
-Use: All charts + EXECUTIVE_SUMMARY.txt + data_summary.md
+- Calvin McDonald: Departed January 31, 2026
+- Meghan Frank & Andre Maestrini: Interim co-CEOs
+- Chip Wilson (founder): Campaigning against leadership, citing "brand erosion"
 
 ---
 
-Generated: February 14, 2026
-Format: Quick reference for report writers
-Total Data Points: 185+ metrics across all documents
+*Generated: February 2026 | 185+ metrics across all documents*

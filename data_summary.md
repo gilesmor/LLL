@@ -3,8 +3,6 @@ layout: page
 title: Full Data Summary
 ---
 
-# Lululemon Data Analysis Summary
-
 ## Executive Overview
 
 This analysis extracts quantitative data from four comprehensive research documents covering Lululemon's financial collapse, competitive landscape, customer demographics, and influencer/podcast marketing opportunities. Key findings reveal a company in severe decline with 66% stock price drop while competitors like Vuori capture market share at dramatic rates (550% penetration growth).
@@ -313,7 +311,7 @@ This analysis extracts quantitative data from four comprehensive research docume
 ## Generated Visualizations
 
 ### 1. Stock & Revenue Decline Timeline
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/01_stock_revenue_decline.png`
+![Stock and revenue decline](01_stock_revenue_decline.png)
 
 **Description:** Dual-axis chart showing Lululemon's catastrophic stock decline (from 0% to -66%) overlaid with revenue growth rate deceleration (from 18.6% down to 5.5% projected). Visually demonstrates the divergence between absolute revenue growth and collapsing shareholder value.
 
@@ -322,7 +320,7 @@ This analysis extracts quantitative data from four comprehensive research docume
 ---
 
 ### 2. Market Share Comparison
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/02_market_share_comparison.png`
+![Market share comparison](02_market_share_comparison.png)
 
 **Description:** Horizontal bar chart ranking six major athleisure brands by U.S. market share based on monthly spending percentages. Includes trend indicators showing Nike's dominance (31.6%), Lululemon's challenged position (21.2%), and rapid growth of Vuori (2.9%) and Alo Yoga (1.3%).
 
@@ -331,7 +329,7 @@ This analysis extracts quantitative data from four comprehensive research docume
 ---
 
 ### 3. Vuori Penetration Growth
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/03_vuori_penetration_growth.png`
+![Vuori penetration growth](03_vuori_penetration_growth.png)
 
 **Description:** Dual-axis chart tracking Vuori's customer penetration among Lululemon shoppers (1.2% in 2018 to 7.8% in 2025) alongside their wallet share growth (21.6% to 27.4% YoY). Shows 550% penetration growth rate.
 
@@ -340,7 +338,7 @@ This analysis extracts quantitative data from four comprehensive research docume
 ---
 
 ### 4. Influencer vs Podcast ROI Comparison
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/04_roi_comparison.png`
+![ROI comparison](04_roi_comparison.png)
 
 **Description:** Bar chart comparing ROI/ROAS across five marketing channels: Podcast Advertising (4.9x), Influencer Marketing average (5.2x), Micro-Influencers (7.3x), Social Media average (3.6x), and Radio (3.5x). Includes benchmark line at 4x and performance highlights.
 
@@ -349,7 +347,7 @@ This analysis extracts quantitative data from four comprehensive research docume
 ---
 
 ### 5. Customer Demographics Breakdown
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/05_customer_demographics.png`
+![Customer demographics](05_customer_demographics.png)
 
 **Description:** Bar chart showing six key demographic metrics: Women revenue share (63%), Male audience (35.64%), Age 25-34 primary (50%), Income $100K+ (60%), Digital channel (50%), and Loyalty program participation (45%).
 

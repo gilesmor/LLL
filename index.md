@@ -1,10 +1,9 @@
 ---
-layout: home
+layout: page
+title: ""
 ---
 
-# Lululemon Recovery Strategy Research
-
-**Oxford Road | February 2026**
+*Oxford Road — February 2026*
 
 Analysis of Lululemon's financial decline, competitive threats, customer base, and marketing channel opportunities. 185+ data points extracted from four primary research documents.
 
