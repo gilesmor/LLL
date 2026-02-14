@@ -11,4 +11,3 @@ header_pages:
 exclude:
   - EXECUTIVE_SUMMARY.txt
   - lululemon_recovery_strategy_report.pdf
-  - "*.png"

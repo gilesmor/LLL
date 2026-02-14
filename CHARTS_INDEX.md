@@ -8,18 +8,23 @@ title: Charts Index
 ## All Charts Generated (5 Total)
 
 ### Chart 1: Stock & Revenue Decline Timeline
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/01_stock_revenue_decline.png`
+
+![Stock and revenue decline](01_stock_revenue_decline.png)
+
 **Type:** Dual-axis line and bar chart
 **Data Points:**
 - Stock decline: 0% (2023) → -25% (2024) → -57% (2025) → -66% (2026)
 - Revenue growth rate: 18.6% (2024) → 10.07% (2025) → 5.5% (2026 projected)
+
 **Key Finding:** Stock collapse (-66%) while revenue growth decelerates dramatically (18.6% → 5.5%)
 **Insight:** Market has lost confidence in growth trajectory despite positive absolute revenue
 
 ---
 
 ### Chart 2: Market Share Comparison
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/02_market_share_comparison.png`
+
+![Market share comparison](02_market_share_comparison.png)
+
 **Type:** Horizontal bar chart (ranking)
 **Brands Ranked:**
 1. Nike: 31.6% (leader, declining)
@@ -35,7 +40,9 @@ title: Charts Index
 ---
 
 ### Chart 3: Vuori Penetration Growth
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/03_vuori_penetration_growth.png`
+
+![Vuori penetration growth](03_vuori_penetration_growth.png)
+
 **Type:** Dual-axis line and bar chart
 **Penetration Data:**
 - 2018: 1.2% of Lululemon customers shop at Vuori
@@ -54,7 +61,9 @@ title: Charts Index
 ---
 
 ### Chart 4: Influencer vs Podcast ROI Comparison
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/04_roi_comparison.png`
+
+![ROI comparison](04_roi_comparison.png)
+
 **Type:** Bar chart with benchmark line
 **ROI/ROAS by Channel:**
 - Micro-Influencers (10-100K): 7.3x (highest)
@@ -71,7 +80,9 @@ title: Charts Index
 ---
 
 ### Chart 5: Customer Demographics Breakdown
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/charts/05_customer_demographics.png`
+
+![Customer demographics](05_customer_demographics.png)
+
 **Type:** Bar chart (demographic metrics)
 **Customer Profile:**
 - Women revenue share: 63%
@@ -86,69 +97,15 @@ title: Charts Index
 
 ---
 
-## Data Summary Document
-**File:** `/Users/giles/claude-agent-sdk-demos/research-agent/files/data/data_summary.md`
+## Source Research Documents
 
-**Contents:**
-- 185+ quantitative data points extracted
-- 7 major data categories analyzed
-- Financial metrics, competitive landscape, customer demographics
-- Marketing channel performance analysis
-- Strategic insights and market opportunities
+1. [Customer Loyalty Research](lululemon_customer_loyalty_research) — demographics, loyalty, retention data
+2. [Competitive Landscape](lululemon_competitive_landscape) — market share, competitor analysis, pricing
+3. [Struggles 2024-2026](lululemon_struggles_2024_2026) — financial decline, operational issues
+4. [Influencer & Podcast Marketing](influencer_marketing_podcast_sponsorships_fitness_athleisure) — marketing ROI, market size
 
----
-
-## Data Extraction Summary
-
-**Research Notes Read (4 files):**
-1. `lululemon_customer_loyalty_research.md` - Demographics, loyalty, retention data
-2. `lululemon_competitive_landscape.md` - Market share, competitor analysis, pricing
-3. `lululemon_struggles_2024_2026.md` - Financial decline, operational issues
-4. `influencer_marketing_podcast_sponsorships_fitness_athleisure.md` - Marketing ROI, market size
-
-**Quantitative Data Points Extracted: 185+**
-
-**Charts Generated: 5 PNG files (total 380KB)**
-
-**Files Created:**
-- 5 visualization PNG files
-- 1 comprehensive data summary markdown
-- 1 charts index (this file)
-
----
-
-## Key Metrics Quick Reference
-
-### Financial Crisis
-- Stock: -66% from peak
-- Revenue growth: 18.6% (2024) → 5.5% (2026 projected)
-- Gross margin: Down 110 basis points (Q2 2025)
-- Comp sales (Americas): -5% (Q3 2025)
-
-### Competitive Threat
-- Vuori penetration: 1.2% (2018) → 7.8% (2025) [550% growth]
-- Market share: Lululemon 21.2% (declining) vs Nike 31.6%
-- Alo Yoga: 35th → 11th teen ranking in 12 months
-
-### Customer Base
-- Women: 63% revenue, 70% of customers
-- Household income: $100K+
-- Digital engagement: 50% of revenue from digital channel
-- Loyalty program: Only 45% participation
-
-### Marketing ROI Winners
-- Micro-influencers: 7.3x ROI, 7.3% engagement
-- Podcasts: 4.9x ROI, 62% host-read ad trust
-- Traditional social media: 3.6x ROI, 15% trust
-
-### Market Opportunity
-- Athleisure market: $431.7B (2024) → $1,069.8B (2034) [9.5% CAGR]
-- Influencer platform: $25.4B (2024) → $97.5B (2030) [23.3% CAGR]
-- Podcast ad revenue: $4.46B (2025), +17% YoY
+**Quantitative Data Points Extracted:** 185+ across all documents
 
 ---
 
 Generated: February 14, 2026
-Analysis Scope: Lululemon Financial Crisis & Competitive Landscape (2023-2026)
-Data Quality: Comprehensive extraction from 4 primary research documents
-
